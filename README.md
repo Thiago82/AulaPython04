@@ -1,3 +1,3 @@
 # Estudo sobre PULL/PUSH
 
-Alterando para todos
+Alterando o texto readme para poder mudar o commit do branch
